@@ -162,5 +162,7 @@ If you have questions or suggestions, feel free to reach out:
 
 ## License
 
-📜 This project is licensed under the [MIT License](LICENSE). See the license file for details.
+📜 This project is licensed under the [MIT License](LICENSE). See the license file for details. 
+<br>
+This repository makes use of Local Assistant Examples as a foundational resource for implementing localized AI assistant functionalities: https://blog.duy.dev/build-your-own-rag-and-run-them-locally/
 

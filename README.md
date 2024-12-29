@@ -1,6 +1,6 @@
-# Teleginski Academy
+## ChatPDF
 
-Welcome to the **Teleginski Academy** repository, a project designed for learning and developing applications using Python.
+Welcome to the **Chiquetto Academy** repository, a project designed for learning and developing applications using Python.
 
 ---
 
@@ -32,7 +32,7 @@ Below is a description of the main files found in this repository:
 
 ## Application Architecture
 
-The **Teleginski Academy** architecture is modular and designed to be understandable and extensible. It follows a layered model with the following responsibilities:
+The **Chiquetto Academy** architecture is modular and designed to be understandable and extensible. It follows a layered model with the following responsibilities:
 
 ### 1. Application Layer
 - 📂 Represented by the `app.py` file, this layer is the main entry point for the user to interact with the application.
